@@ -1,4 +1,4 @@
-# Anonsurf-OSX
+# Anonsurf MacOSX
 Anonsurf Mac OSX version.
 
 Step 1: Install py2app using pip.
